@@ -1,0 +1,86 @@
+body {
+    background-image: url(series.jpg);
+    background-size: 40%;
+    
+}
+
+h1 {
+    font-size: 1cm;
+    color: rgb(4, 8, 4);
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900;
+    text-shadow: 3px 1px grey;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 25%, rgb(197, 194, 194) 50%, rgb(180, 170, 170) 70%);
+}
+
+p.home {
+    font-family: monospace;
+    font-size: 0.7cm;
+    color: black;
+    background-color: silver;
+    box-shadow: 10px 10px 10px 10px silver;
+}
+
+.boxPontoCego {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 25%, rgb(139, 133, 133) 50%, rgb(119, 110, 110) 70%);
+}
+
+.boxBreaking {
+    margin-left: 2px;
+    margin-right: 600px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 25%, rgb(139, 133, 133) 50%, rgb(119, 110, 110) 70%);
+}
+
+.box13Reasons {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 25%, rgb(139, 133, 133) 50%, rgb(119, 110, 110) 70%);
+}
+
+h2 {
+    font-size: 0.7cm;
+    color: rgb(4, 8, 4);
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900;
+    text-shadow: 3px 1px grey;
+}
+
+a {
+    font-family: monospace;
+    font-size: 0.6cm;
+    text-decoration: underline;
+    word-spacing: -5px;
+    font-style: italic;
+    color: white;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.ass {
+    color: black;
+    font-family: serif;
+    word-spacing: 5px;
+    font-weight: 900;
+}

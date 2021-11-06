@@ -1,0 +1,82 @@
+body {
+    background-image: url(Show.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 1cm; 
+    color: rgb(49, 218, 49);    
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900; 
+    text-shadow: 3px 1px grey;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: linear-gradient(to bottom, rgb(30, 7, 94) 25%, rgb(40, 12, 139) 50%, white 70%);
+}
+
+p.home {
+    font-family: monospace; 
+    font-size: 0.7cm;
+    color: white;
+}
+
+.boxMonkeys {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(30, 7, 94) 25%, rgb(40, 12, 139) 50%, white 70%);
+}
+
+.boxGuns {
+    margin-left: 2px;
+    margin-right: 600px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(30, 7, 94) 25%, rgb(40, 12, 139) 50%, white 70%);
+}
+
+.boxScalene {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(30, 7, 94) 25%, rgb(40, 12, 139) 50%, white 70%);
+}
+
+h2 {
+    font-size: 0.7cm;
+    color: rgb(49, 218, 49);
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900;
+    text-shadow: 3px 1px grey;
+}
+
+a {
+    font-family: monospace;
+    font-size: 0.6cm;
+    text-decoration: underline;
+    word-spacing: -5px;
+    font-style: italic;
+}
+
+a:hover {
+    background-color: blue;
+    color: white;
+    border-radius: 15%;
+}
+
+.ass {
+    color: white;
+    font-family: serif;
+    word-spacing: 5px;
+    font-weight: 900;
+}

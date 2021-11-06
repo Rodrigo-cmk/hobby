@@ -1,0 +1,86 @@
+body {
+    background-image: url(jogos.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 1cm;
+    color: silver;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900;
+    text-shadow: 3px 1px grey;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: linear-gradient(to bottom, rgb(70, 64, 64) 25%, rgb(37, 35, 35) 50%, rgb(29, 26, 26) 70%);
+}
+
+p.home {
+    font-family: monospace;
+    font-size: 0.7cm;
+    color: white;
+    background-color: rgb(29, 26, 26);
+    box-shadow: 10px 10px 10px 10px rgb(29, 26, 26);
+    opacity: 0.87;
+}
+
+.boxCS {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(70, 64, 64) 25%, rgb(37, 35, 35) 50%, rgb(29, 26, 26) 70%);
+}
+
+.boxGTA {
+    margin-left: 2px;
+    margin-right: 600px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(70, 64, 64) 25%, rgb(37, 35, 35) 50%, rgb(29, 26, 26) 70%);
+}
+
+.boxPES {
+    margin-left: 600px;
+    margin-right: 2px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(70, 64, 64) 25%, rgb(37, 35, 35) 50%, rgb(29, 26, 26) 70%);
+}
+
+h2 {
+    font-size: 0.7cm;
+    color: silver;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    font-weight: 900;
+    text-shadow: 3px 1px grey;
+}
+
+a {
+    font-family: monospace;
+    font-size: 0.6cm;
+    text-decoration: underline;
+    word-spacing: -5px;
+    font-style: italic;
+    color: white;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.ass {
+    color: white;
+    font-family: serif;
+    word-spacing: 5px;
+    font-weight: 900;
+}
